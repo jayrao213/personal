@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #141414;
-  color: #e0d6ff;
+  background-color: #121212;
+  color: #e0e0e0;
   scroll-behavior: smooth;
 }
 
@@ -43,7 +43,7 @@ header {
 }
 
 .nav-links a:hover {
-  color: #62ff6f;
+  color: #bb86fc;
 }
 
 main {
@@ -59,11 +59,11 @@ section {
 h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #afff97;
+  color: #ffffff;
 }
 
 p {
   font-size: 1.1rem;
   line-height: 1.6;
-  color: #d7ffc8;
+  color: #cccccc;
 }
